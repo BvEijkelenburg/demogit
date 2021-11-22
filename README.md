@@ -1,3 +1,3 @@
 Dit is een Git-demo project.
 
-* voorbeeld
+* vandaag is 22 november
